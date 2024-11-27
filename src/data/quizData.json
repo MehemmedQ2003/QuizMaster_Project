@@ -1,0 +1,135 @@
+{
+  "categories": [
+    {
+      "categoryId": 1,
+      "id": "web",
+      "name": "Web Development",
+      "icon": "Code",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does HTML stand for?",
+          "answers": [
+            "Hyper Text Markup Language",
+            "High Tech Modern Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": 2,
+          "question": "What does CSS stand for?",
+          "answers": [
+            "Cascading Style Sheet",
+            "Computer Style Sheet",
+            "Creative Style Sheet",
+            "Colorful Style Sheet"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "categoryId": 2,
+      "id": "science",
+      "name": "Science",
+      "icon": "Book",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the chemical symbol for gold?",
+          "answers": ["Au", "Ag", "Fe", "Cu"],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "categoryId": 3,
+      "id": "history",
+      "name": "History",
+      "icon": "BookOpen",
+      "questions": [
+        {
+          "id": 1,
+          "question": "In which year did World War II end?",
+          "answers": ["1943", "1944", "1945", "1946"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "categoryId": 4,
+      "id": "religion",
+      "name": "Religion",
+      "icon": "Moon",
+      "questions": [
+        {
+          "id": 1,
+          "question": "İslamın ilk peyğəmbəri kimdir?",
+          "answers": ["Hz. İbrahim", "Hz. İsa", "Hz. Musa", "Hz. Muhəmməd"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 2,
+          "question": "İslamın beş əsas sütunundan biri hansıdır?",
+          "answers": ["Həcc", "Dua", "Qurban", "Şükür"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 3,
+          "question": "Quranda neçə surə var?",
+          "answers": ["113", "114", "115", "116"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 4,
+          "question": "İslamın müqəddəs kitabı hansıdır?",
+          "answers": ["Tövrat", "İncil", "Quran", "Zəbur"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 5,
+          "question": "İslamda günahların bağışlanması üçün edilən ibadət nədir?",
+          "answers": ["Namaz", "Tövbə", "Oruç", "Zəkat"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 6,
+          "question": "Hz. Muhəmmədin (s.ə.s) doğulduğu şəhər hansıdır?",
+          "answers": ["Mədinə", "Qüds", "Məkkə", "Taif"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 7,
+          "question": "İslamın ilk xəlifəsi kimdir?",
+          "answers": ["Hz. Osman", "Hz. Əli", "Hz. Əbu Bəkr", "Hz. Ömər"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 8,
+          "question": "Məscidül-Əqsanın yerləşdiyi şəhər hansıdır?",
+          "answers": ["Məkkə", "Mədinə", "Qüds", "Taif"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 9,
+          "question": "Ramazan ayında hansı ibadət vacibdir?",
+          "answers": ["Namaz", "Oruç", "Həcc", "Zəkat"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 10,
+          "question": "İslamın əsas etiqad formulu nədir?",
+          "answers": [
+            "Allah birdir və Muhəmməd Onun Rəsuludur",
+            "Allah böyüktür və günahları bağışlayır",
+            "Allah mərhəmətlidir və sevgiyə layiqdir",
+            "Allah ədalətlidir və hər şeyin yaradıcısıdır"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    }
+  ]
+}
